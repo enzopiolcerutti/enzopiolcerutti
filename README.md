@@ -9,7 +9,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0B1F3A&width=900&size=22&center=true&vCenter=true&pause=1000&lines=Bem+vindo+ao+meu+GitHub!;Vivo+no+Brasil;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0B1F3A&width=900&size=22&center=true&vCenter=true&pause=1000&lines=Bem+vindo+ao+meu+GitHub!;Vivo+no+Brasil;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Desenvolvedor" alt="Typing SVG" />
 </div>
 
 <br>
