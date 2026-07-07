@@ -53,11 +53,6 @@
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/enzo-piol-cerutti/">
     <img src="https://img.shields.io/badge/LinkedIn-0b1f3a?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/enzopiolcerutti">
-    <img src="https://img.shields.io/badge/GitHub-0b1f3a?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub">
-  </a>
 </div>
 
 <br>
